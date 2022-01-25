@@ -1,0 +1,20 @@
+{
+    "bs": [
+        {
+            "item" : "stone",
+            "weight" : "69 g",
+            "color" : "violet"
+            },
+{
+            "item" : "CD",
+            "weight" : "112 g",
+            "color" : "colorful"
+            },
+{
+            "item" : "coffee",
+            "weight" : "1500 g",
+            "color" : "brown"
+            }           
+    ]
+}
+
